@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kaveesha Prabuddhi
+# Hi! 👋 I'm Kaveesha Prabuddhi
 
 ## 🚀 About Me
 I'm an **IT & Management Undergraduate** passionate about technology and innovation. Currently exploring the exciting world of **full-stack development** and always open to collaboration on interesting projects. I love turning ideas into reality through code and continuously learning new technologies.
@@ -7,6 +7,7 @@ I'm an **IT & Management Undergraduate** passionate about technology and innovat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaveesha-prabuddhi)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/kaveesha_prabuddhi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavi-234)
+[![Gmail](kprabuddhi2001@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -29,12 +30,12 @@ I'm an **IT & Management Undergraduate** passionate about technology and innovat
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🎯 Featured Projects
+### 🏨 [Farm_To_Market](https://github.com/rumesh02/harvest-software)
+Level 02 - Academic Team Project 
+A full-stack web platform enabling farmers to analyze harvest pricing and list harvests for bidding, allowing merchants to place offers and arrange transport through registered transporters.
 
 ### 🏨 [hotel_managementWEB](https://github.com/kavi-234/hotel_managementWEB)
 A comprehensive hotel management web application with booking system and administrative features.
-
-### 📝 [Task_1](https://github.com/kavi-234/Task_1)
-An efficient task management solution to help organize and track daily activities.
 
 ### 🛒 [E-commerce_Platform](https://github.com/kavi-234/E-commerce_Platform)
 A full-featured e-commerce platform with shopping cart, payment integration, and user management.
